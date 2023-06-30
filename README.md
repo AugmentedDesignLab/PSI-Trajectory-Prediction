@@ -40,6 +40,10 @@ Video Splits:
 ```buildoutcfg
 ./database/create_database(args)
 ```
+```
+python create_database.py --dataset_root_path E:/Datasets/PSI_2_dataset --database_path E:/Datasets/PSI_2_dataset/database
+```
+
 Organize the data into format as:
 ```python
 
